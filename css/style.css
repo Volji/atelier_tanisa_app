@@ -2697,7 +2697,7 @@ button:focus {
 .events-section .title p {
     color: #A1A1A1;
     font-size: 17px;
-    margin-bottom: 40px;
+    margin-bottom: 0px;
 }
 
 .events-section .sec-title h4{
@@ -4218,7 +4218,7 @@ padding-bottom: 70px;
 
 .events-section.style-two {
     position: relative;
-    padding-top: 100px;
+    padding-top: 10px;
     padding-bottom: 100px;
 }
 .events-section.style-two .single-item{
