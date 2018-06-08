@@ -235,8 +235,8 @@ ul,li{
 	font-size:14px;
 	line-height: 24px;
 	font-weight:700;
-	color: #ffffff;
-	background: #2a2d2d;
+	color: #2a2d2d;
+	background: #ffffff;
 	padding: 9px 26px;
 	border: 1px solid #2a2d2d;
 	text-transform:uppercase;
@@ -2166,7 +2166,7 @@ button:focus {
     left: 50%;
     position: absolute;
     width: 570px;
-    margin-left: -285px;
+    margin-left: 0px;
 }
 
 .volunteers-section .sec-title h3 span{
@@ -5158,7 +5158,6 @@ padding-bottom: 70px;
 }
 
 .contact-section.contact-page p::before {
-    background: rgba(0, 0, 0, 0) url("../images/tuch-background.png") no-repeat scroll 0 0;
     bottom: -28px;
     content: "";
     height: 20px;
