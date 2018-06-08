@@ -2683,7 +2683,6 @@ button:focus {
     margin-bottom: 6px;
 }
 .events-section .title h3:before {
-    background: rgba(0, 0, 0, 0) url(../images/line.png) no-repeat scroll 0 0;
     bottom: -68px;
     content: "";
     height: 20px;
